@@ -30,8 +30,10 @@ Requirement:
 - Node.js
 - Cheerio
 - Request Promise
+- Express
+- ejs ( template engine)
 
 Steps:
 1. Clone and Download the project files.
-2. Open a Terminal and run the app.js file.
-3. Open http://localhost:8080/
+2. Download the required dependencies ( express, request promise)
+3. Open http://localhost:8080/ or whatever the listed port num
